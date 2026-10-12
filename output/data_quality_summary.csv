@@ -1,0 +1,8 @@
+check,count,action_taken
+Duplicate rows,3,Removed
+Missing customer,1,Replaced with Unknown
+Missing city,1,Replaced with Unknown
+Missing or invalid date,2,Removed
+Missing price,1,Removed
+Invalid quantity,2,Removed
+Invalid price,1,Removed

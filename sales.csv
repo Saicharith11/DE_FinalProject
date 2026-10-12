@@ -1,0 +1,124 @@
+order_id,order_date,customer,product,category,quantity,price,city
+O1001,2025-01-03,Aarav Sharma,Wireless Mouse,Electronics,1,650,Mumbai
+O1002,2025-01-06,Diya Patel,USB-C Cable,Electronics,2,275,Delhi
+O1003,2025-01-09,Rohan Mehta,Notebook Set,Stationery,3,230,Bengaluru
+O1004,2025-01-12,Ananya Singh,Water Bottle,Home,4,420,Chennai
+O1005,2025-01-15,Vikram Rao,Desk Lamp,Home,5,1275,Pune
+O1006,2025-01-18,Isha Gupta,Backpack,Accessories,1,1150,Hyderabad
+O1007,2025-01-21,Kabir Khan,Bluetooth Speaker,Electronics,2,2200,Mumbai
+O1008,2025-01-24,,Pen Pack,Stationery,3,145,Delhi
+O1009,2025-01-27,Arjun Das,Coffee Mug,Home,4,400,Bengaluru
+O1010,2025-01-30,Sana Ali,Phone Stand,Accessories,5,480,Chennai
+O1011,2025-02-02,Neha Verma,Wireless Mouse,Electronics,1,675,Pune
+O1012,2025-02-05,Rahul Iyer,USB-C Cable,Electronics,2,300,Hyderabad
+O1013,2025-02-08,Aarav Sharma,Notebook Set,Stationery,3,180,Mumbai
+O1014,2025-02-11,Diya Patel,Water Bottle,Home,4,445,Delhi
+O1015,2025-02-14,Rohan Mehta,Desk Lamp,Home,5,1300,Bengaluru
+O1016,2025-02-17,Ananya Singh,Backpack,Accessories,1,1100,Chennai
+O1017,2025-02-20,Vikram Rao,Bluetooth Speaker,Electronics,2,2225,Pune
+O1018,2025-02-23,Isha Gupta,Pen Pack,Stationery,3,170,Hyderabad
+O1019,2025-02-26,Kabir Khan,Coffee Mug,Home,4,350,
+O1020,2025-03-01,Meera Nair,Phone Stand,Accessories,5,505,Delhi
+O1021,2025-03-04,Arjun Das,Wireless Mouse,Electronics,1,700,Bengaluru
+O1022,2025-03-07,Sana Ali,USB-C Cable,Electronics,2,250,Chennai
+O1023,2025-03-10,Neha Verma,Notebook Set,Stationery,3,205,Pune
+O1024,2025-03-13,Rahul Iyer,Water Bottle,Home,4,470,Hyderabad
+O1025,2025-03-16,Aarav Sharma,Desk Lamp,Home,5,1250,Mumbai
+O1026,2025-03-19,Diya Patel,Backpack,Accessories,1,1125,Delhi
+O1027,2025-03-22,Rohan Mehta,Bluetooth Speaker,Electronics,2,2250,Bengaluru
+O1028,2025-03-25,Ananya Singh,Pen Pack,Stationery,3,120,Chennai
+O1029,2025-03-28,Vikram Rao,Coffee Mug,Home,4,375,Pune
+O1030,2025-03-31,Isha Gupta,Phone Stand,Accessories,5,,Hyderabad
+O1031,2025-04-03,Kabir Khan,Wireless Mouse,Electronics,1,650,Mumbai
+O1032,2025-04-06,Meera Nair,USB-C Cable,Electronics,2,275,Delhi
+O1033,2025-04-09,Arjun Das,Notebook Set,Stationery,3,230,Bengaluru
+O1034,2025-04-12,Sana Ali,Water Bottle,Home,4,420,Chennai
+O1035,2025-04-15,Neha Verma,Desk Lamp,Home,5,1275,Pune
+O1036,2025-04-18,Rahul Iyer,Backpack,Accessories,1,1150,Hyderabad
+O1037,2025-04-21,Aarav Sharma,Bluetooth Speaker,Electronics,2,2200,Mumbai
+O1038,2025-04-24,Diya Patel,Pen Pack,Stationery,3,145,Delhi
+O1039,2025-04-27,Rohan Mehta,Coffee Mug,Home,4,400,Bengaluru
+O1040,2025-04-30,Ananya Singh,Phone Stand,Accessories,5,480,Chennai
+O1041,2025-05-03,Vikram Rao,Wireless Mouse,Electronics,1,675,Pune
+O1042,2025-05-06,Isha Gupta,USB-C Cable,Electronics,0,300,Hyderabad
+O1043,2025-05-09,Kabir Khan,Notebook Set,Stationery,3,180,Mumbai
+O1044,2025-05-12,Meera Nair,Water Bottle,Home,4,445,Delhi
+O1045,2025-05-15,Arjun Das,Desk Lamp,Home,5,1300,Bengaluru
+O1046,2025-05-18,Sana Ali,Backpack,Accessories,1,1100,Chennai
+O1047,2025-05-21,Neha Verma,Bluetooth Speaker,Electronics,2,2225,Pune
+O1048,2025-05-24,Rahul Iyer,Pen Pack,Stationery,3,170,Hyderabad
+O1049,2025-05-27,Aarav Sharma,Coffee Mug,Home,4,350,Mumbai
+O1050,2025-05-30,Diya Patel,Phone Stand,Accessories,5,505,Delhi
+O1051,2025-06-02,Rohan Mehta,Wireless Mouse,Electronics,1,700,Bengaluru
+O1052,2025-06-05,Ananya Singh,USB-C Cable,Electronics,2,250,Chennai
+O1053,2025-06-08,Vikram Rao,Notebook Set,Stationery,-2,205,Pune
+O1054,2025-06-11,Isha Gupta,Water Bottle,Home,4,470,Hyderabad
+O1055,2025-06-14,Kabir Khan,Desk Lamp,Home,5,1250,Mumbai
+O1056,2025-06-17,Meera Nair,Backpack,Accessories,1,1125,Delhi
+O1057,2025-06-20,Arjun Das,Bluetooth Speaker,Electronics,2,2250,Bengaluru
+O1058,2025-06-23,Sana Ali,Pen Pack,Stationery,3,120,Chennai
+O1059,2025-06-26,Neha Verma,Coffee Mug,Home,4,375,Pune
+O1060,2025-06-29,Rahul Iyer,Phone Stand,Accessories,5,530,Hyderabad
+O1061,2025-07-02,Aarav Sharma,Wireless Mouse,Electronics,1,650,Mumbai
+O1062,2025-07-05,Diya Patel,USB-C Cable,Electronics,2,275,Delhi
+O1063,2025-07-08,Rohan Mehta,Notebook Set,Stationery,3,230,Bengaluru
+O1064,2025-07-11,Ananya Singh,Water Bottle,Home,4,-150,Chennai
+O1065,2025-07-14,Vikram Rao,Desk Lamp,Home,5,1275,Pune
+O1066,2025-07-17,Isha Gupta,Backpack,Accessories,1,1150,Hyderabad
+O1067,2025-07-20,Kabir Khan,Bluetooth Speaker,Electronics,2,2200,Mumbai
+O1068,2025-07-23,Meera Nair,Pen Pack,Stationery,3,145,Delhi
+O1069,2025-07-26,Arjun Das,Coffee Mug,Home,4,400,Bengaluru
+O1070,2025-07-29,Sana Ali,Phone Stand,Accessories,5,480,Chennai
+O1071,2025-01-03,Neha Verma,Wireless Mouse,Electronics,1,675,Pune
+O1072,2025-01-06,Rahul Iyer,USB-C Cable,Electronics,2,300,Hyderabad
+O1073,2025-01-09,Aarav Sharma,Notebook Set,Stationery,3,180,Mumbai
+O1074,2025-01-12,Diya Patel,Water Bottle,Home,4,445,Delhi
+O1075,15/04/2025,Rohan Mehta,Desk Lamp,Home,5,1300,Bengaluru
+O1076,2025-01-18,Ananya Singh,Backpack,Accessories,1,1100,Chennai
+O1077,2025-01-21,Vikram Rao,Bluetooth Speaker,Electronics,2,2225,Pune
+O1078,2025-01-24,Isha Gupta,Pen Pack,Stationery,3,170,Hyderabad
+O1079,2025-01-27,Kabir Khan,Coffee Mug,Home,4,350,Mumbai
+O1080,2025-01-30,Meera Nair,Phone Stand,Accessories,5,505,Delhi
+O1081,2025-02-02,Arjun Das,Wireless Mouse,Electronics,1,700,Bengaluru
+O1082,2025-02-05,Sana Ali,USB-C Cable,Electronics,2,250,Chennai
+O1083,2025-02-08,Neha Verma,Notebook Set,Stationery,3,205,Pune
+O1084,2025-02-11,Rahul Iyer,Water Bottle,Home,4,470,Hyderabad
+O1085,2025-02-14,Aarav Sharma,Desk Lamp,Home,5,1250,Mumbai
+O1086,2025/05/20,Diya Patel,Backpack,Accessories,1,1125,Delhi
+O1087,2025-02-20,Rohan Mehta,Bluetooth Speaker,Electronics,2,2250,Bengaluru
+O1088,2025-02-23,Ananya Singh,Pen Pack,Stationery,3,120,Chennai
+O1089,2025-02-26,Vikram Rao,Coffee Mug,Home,4,375,Pune
+O1090,2025-03-01,Isha Gupta,Phone Stand,Accessories,5,530,Hyderabad
+O1091,2025-03-04,Kabir Khan,Wireless Mouse,Electronics,1,650,Mumbai
+O1092,2025-03-07,Meera Nair,USB-C Cable,Electronics,2,275,Delhi
+O1093,2025-03-10,Arjun Das,Notebook Set,Stationery,3,230,Bengaluru
+O1094,2025-03-13,Sana Ali,Water Bottle,Home,4,420,Chennai
+O1095,2025-03-16,Neha Verma,Desk Lamp,Home,5,1275,Pune
+O1096,2025-03-19,Rahul Iyer,Backpack,Accessories,1,1150,Hyderabad
+O1097,not_a_date,Aarav Sharma,Bluetooth Speaker,Electronics,2,2200,Mumbai
+O1098,2025-03-25,Diya Patel,Pen Pack,Stationery,3,145,Delhi
+O1099,2025-03-28,Rohan Mehta,Coffee Mug,Home,4,400,Bengaluru
+O1100,2025-03-31,Ananya Singh,Phone Stand,Accessories,5,480,Chennai
+O1101,2025-04-03,Vikram Rao,Wireless Mouse,Electronics,1,675,Pune
+O1102,2025-04-06,Isha Gupta,USB-C Cable,Electronics,2,300,Hyderabad
+O1103,2025-04-09,Kabir Khan,Notebook Set,Stationery,3,180,Mumbai
+O1104,2025-04-12,Meera Nair,Water Bottle,Home,4,445,Delhi
+O1105,2025-04-15,Arjun Das,Desk Lamp,Home,5,1300,Bengaluru
+O1106,2025-04-18,Sana Ali,Backpack,Accessories,1,1100,Chennai
+O1107,2025-04-21,Neha Verma,Bluetooth Speaker,Electronics,2,2225,Pune
+O1108,,Rahul Iyer,Pen Pack,Stationery,3,170,Hyderabad
+O1109,2025-04-27,Aarav Sharma,Coffee Mug,Home,4,350,Mumbai
+O1110,2025-04-30,Diya Patel,Phone Stand,Accessories,5,505,Delhi
+O1111,2025-05-03,Rohan Mehta,Wireless Mouse,Electronics,1,700,Bengaluru
+O1112,2025-05-06,Ananya Singh,USB-C Cable,Electronics,2,250,Chennai
+O1113,2025-05-09,Vikram Rao,Notebook Set,Stationery,3,205,Pune
+O1114,2025-05-12,Isha Gupta,Water Bottle,Home,4,470,Hyderabad
+O1115,2025-05-15,Kabir Khan,Desk Lamp,Home,5,1250,Mumbai
+O1116,2025-05-18,Meera Nair,Backpack,Accessories,1,1125,Delhi
+O1117,2025-05-21,Arjun Das,Bluetooth Speaker,Electronics,2,2250,Bengaluru
+O1118,2025-05-24,Sana Ali,Pen Pack,Stationery,3,120,Chennai
+O1119,2025-05-27,Neha Verma,Coffee Mug,Home,4,375,Pune
+O1120,2025-05-30,Rahul Iyer,Phone Stand,Accessories,5,530,Hyderabad
+O1005,2025-01-15,Vikram Rao,Desk Lamp,Home,5,1275,Pune
+O1035,2025-04-15,Neha Verma,Desk Lamp,Home,5,1275,Pune
+O1075,15/04/2025,Rohan Mehta,Desk Lamp,Home,5,1300,Bengaluru
